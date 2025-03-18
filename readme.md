@@ -1,6 +1,6 @@
 # CV Project
 
-This is a simple CV website built using **HTML, CSS, and JavaScript**.
+This is a simple CV website built using **HTML**.
 
 ## 📌 Features
 - Responsive design
